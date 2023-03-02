@@ -1,0 +1,9 @@
+*.jpg
+*.png
+*.jpeg
+*.csv
+*.xlsx
+*.gz
+*.json
+*.h5
+*.joblib

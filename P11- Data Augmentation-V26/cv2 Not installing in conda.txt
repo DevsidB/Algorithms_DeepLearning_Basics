@@ -1,0 +1,7 @@
+conda install cv2 not working 
+conda install opencv not working 
+
+Solution: (P11- Data Augmentation ML)
+Open anaconda prompt
+enter : pip install opencv-python
+refernce link : https://www.youtube.com/watch?v=Ms0uuuhQ92Y&ab_channel=Coder%27sDigest
